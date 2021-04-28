@@ -7,10 +7,12 @@
 - **Telegram Chinese Community**
 - **ChainNews Official Account**
 - **BiHu Bar**
-- **Hackathon && Meetup**
-- **Forum**
-- **Podcast**
-- **Github Awesome series && Wiki**
+- **Follow-up development**
+  - **Hackathon && Meetup**
+  - **Forum**
+  - **Podcast**
+  - **Github Awesome series && Wiki**
+  - **Cooperation with other blockchain program**
 
 ## WeChat Officials Account
 
@@ -153,6 +155,8 @@ Chainnews is one of the largest blockchain-related portals in China. Many blockc
 
 ### Analysis
 
+As you can see in the image below,there are many ChainNews columns.
+
 ![ChainNews column](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/20210428113506.png)
 
 ![ChainNews column](https://raw.githubusercontent.com/Whisker17/ImageStoreService/main/20210428121608.png)
@@ -167,36 +171,97 @@ Chainnews is a very important portal website in China. All blockchain practition
 
 - Set up Zeitgeist's Chainnews column, and synchronize the articles on the Official account here.
 
-## Hackathon && Meetup
+## BiHu Bar
 
 ### Introduction
 
-### Analysis
-
-### Summary
-
-### Three-Month Goal
-
-## Forum
-
-### Introduction
+Bihu is a Chinese Quora community focusing on the blockchain industry. It is also active in China and has a certain credibility. So we need to create a Zeitgeist BiHu bar to have a place to discuss and promote.
 
 ### Analysis
 
-### Summary
+- **PolkaDot**
 
-### Three-Month Goal
+  ![image-20210428180225492](/home/whisker/.config/Typora/typora-user-images/image-20210428180225492.png)
 
-## Podcast
+- **Nervos**
 
-### Introduction
-
-### Analysis
+  ![image-20210428180359448](/home/whisker/.config/Typora/typora-user-images/image-20210428180359448.png)
 
 ### Summary
 
+- Most of the participants in BiHu are token investors. They are more willing to discuss the token price and official subsequent operation. At the same time, they are also willing to promote for the community for some rewards.
+
 ### Three-Month Goal
+
+- BiHu followers reach 1,000 
+
+## Live Promotion
+
+#### Introduction
+
+
+
+#### Analysis
+
+- **rebase Community**
+
+  rebase is a Web3 developer community in China, which is pretty famous and active.
+
+  This is its WeChat Official Account:
+
+  ![image-20210428182012073](/home/whisker/.config/Typora/typora-user-images/image-20210428182012073.png)
+
+  And this is its Live video, here is the [link](https://space.bilibili.com/382886213/video):
+
+  ![image-20210428194419797](/home/whisker/.config/Typora/typora-user-images/image-20210428194419797.png)
+
+#### Summary
+
+Rebase community is a blockchain open source community organized by Chinese developers. It publishes daily newspapers and recommends articles every day. At the same time, it also holds online live broadcast project analysis from time to time (usually once or twice a week). I think this is a very good, very hard-core technology-oriented community, which will contribute a lot to the promotion of Zeitgeist in China. If we can attract more developers to Zeitgeist, this will greatly help our ecological development.
+
+#### Three-Month Goal
+
+- Perform one or two live broadcasts related to Zeitgeist and prediction markets.
+
+## Follow-up development
+
+Since this is only a three-month plan, there are some other promotion methods that cannot be carried out at the same time, but these are also what I hope to carry out in the future.
+
+- ### Hackathon && Meetup
+
+  Hackathon and Meetup are very popular geek communication platforms in the world today. This is also what we need to do, because only by attracting enough developers can the ecology of Zeitgeist develop fast enough.
+  I have the experience of participating in many Meetups, and I have a good relationship with the Nervos team who has held many Meetups. If the development goes well, I can hold a Meetup within three months.
+
+  Of course, Meetup will not be launched soon, because we first need to accumulate more online resources to make people familiar with our project, so that the Meetup will be meaningful.
+
+- ### Forum
+
+  Although we have many forms of community, I think the existence of forums is also necessary.
+  First of all, the BiHu community can attract more investors. They pay more attention not to the technology itself, but to the interests, so they cannot make members loyal enough. The ChainNews and WeChat public accounts are mainly for the promotion of more formal information. The existence of WeChat groups makes it easier for Chinese community members to communicate, but due to the nature of WeChat, new members will not be able to see the previous discussion records, so the existence of the forum will make up for this. New members can search the past Posts for a better understanding of the project itself.
+
+  There are some forums examples:
+
+  - **Nervos**
+
+    Here is the [link](https://talk.nervos.org/).
+
+    ![image-20210428202552034](/home/whisker/.config/Typora/typora-user-images/image-20210428202552034.png)
+
+  - **Ethereum Research**
+
+    Here is the [link](https://ethresear.ch/).
+
+    ![image-20210428202726498](/home/whisker/.config/Typora/typora-user-images/image-20210428202726498.png)
+
+- ### Podcast
+
+  Podcast is a form of community communication that I really like. People can listen to podcasts while traveling to absorb new information and knowledge. I think it’s a very meaningful thing to make a successful podcast.
+
+  Here are 2 podcasts that I really enjoy.
+
+  - [Fork it](https://forkit.fm/)
+  - [Zero Knowledge](https://www.zeroknowledge.fm/)
 
 ## Reference
 
-1. [Official Account data resource](https://newrank.cn/)
+1. [WeChat Official Account data resource](https://newrank.cn/)
